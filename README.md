@@ -18,10 +18,12 @@
 
 <h4>Output das atividades:</h4>
 
-![Screenshot from 2022-09-28 22-23-22](https://user-images.githubusercontent.com/78119622/192917599-40d7071f-31a4-4fd3-94af-0650802e1bf1.png)
+![Screenshot from 2022-09-28 22-31-57](https://user-images.githubusercontent.com/78119622/192918310-23b85642-0299-48a8-8c9f-75b2bd2692ab.png)
+
+![Screenshot from 2022-09-28 22-32-19](https://user-images.githubusercontent.com/78119622/192918324-8a519f42-59d2-465e-b264-a7ba5e701686.png)
 
 
-![Screenshot from 2022-09-28 21-58-25](https://user-images.githubusercontent.com/78119622/192917605-45166940-31a4-487d-a28b-85e57cf9c1e0.png)
+![Screenshot from 2022-09-28 22-29-52](https://user-images.githubusercontent.com/78119622/192918188-507dc60b-2c68-4edf-a33e-1459ae1c33b1.png)
 
 <h4>Tecnologias Utilizadas.</h4>
  
