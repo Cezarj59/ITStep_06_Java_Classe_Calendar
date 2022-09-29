@@ -11,9 +11,9 @@
 </ul>
 
 <ol><b>Atividades</b>
-<li>Criar if baseado na hora atual que te responda: bom dia, boa tarde ou boa noite.</li>
-<li>Programa para mostrar a diferença de dias entre duas datas do ano Atual digitada pelo usuário.</li>
-<li>Crie um programa que receba a data de nascimento do usuário, informe quantos anos ele tem corretamente.</li>
+<li>Criar um if baseado na hora atual que te responda: bom dia, boa tarde ou boa noite.</li>
+<li>Criar um programa para mostrar a diferença de dias entre duas datas do ano Atual digitada pelo usuário.</li>
+<li>Criar um programa que receba a data de nascimento do usuário, informe quantos anos ele tem corretamente.</li>
 </ol>
 
 <h4>Output das atividades:</h4>
